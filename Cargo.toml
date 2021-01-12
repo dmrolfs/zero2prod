@@ -35,6 +35,7 @@ uuid = { version = "0.8.1", features = ["v4"] }
 chrono = "0.4.15"
 lazy_static = "1.4.0"
 sonyflake = "0.1.1"
+serde-aux = "2.1.1"
 
 [dependencies.sqlx]
 version = "0.4.1"
